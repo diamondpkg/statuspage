@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="1024"
+   viewBox="0 0 270.93333 270.93334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.0 r15299"
+   sodipodi:docname="Diamond.svg">
+  <title
+     id="title4626">Diamong Logo</title>
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       oposite_fuse="false"
+       fuse_paths="false"
+       discard_orig_path="false"
+       mode="free"
+       is_visible="true"
+       id="path-effect4553"
+       center_point="135.46672,122.08196"
+       end_point="135.46672,120.14982"
+       start_point="135.46672,124.0141"
+       effect="mirror_symmetry" />
+    <inkscape:path-effect
+       oposite_fuse="false"
+       fuse_paths="false"
+       discard_orig_path="false"
+       mode="free"
+       is_visible="true"
+       id="path-effect4542"
+       center_point="135.46672,151.48414"
+       end_point="135.46672,178.95419"
+       start_point="135.46672,124.01408"
+       effect="mirror_symmetry" />
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="135.46672,124.01408"
+       end_point="135.46672,169.25627"
+       center_point="135.46672,146.63518"
+       id="path-effect4538"
+       is_visible="true"
+       mode="free"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="298.37808"
+     inkscape:cy="477.80785"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g4616"
+     showgrid="false"
+     units="px"
+     inkscape:snap-global="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Diamong Logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-26.06665)">
+    <g
+       id="g4616"
+       transform="matrix(2.3689387,0.01561837,-0.01561837,2.3689387,-189.23636,-118.5573)">
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect5915"
+         d="M 98.360925,69.184861 115.64772,96.40239 H 80.706325 Z"
+         style="opacity:1;fill:#9debff;fill-opacity:1;stroke-width:0.5201537" />
+      <path
+         style="opacity:1;fill:#87e6ff;fill-opacity:1;stroke-width:0.5201537"
+         d="M 117.75897,96.40239 100.47218,69.184861 h 34.9414 z"
+         id="path5918"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="opacity:1;fill:#d7f9ff;fill-opacity:1;stroke-width:0.5201537"
+         d="m 137.89264,69.184861 17.2868,27.217529 h -34.94141 z"
+         id="path5920"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path5922"
+         d="m 157.29069,96.40239 -17.2868,-27.217529 h 34.9414 z"
+         style="opacity:1;fill:#87e6ff;fill-opacity:1;stroke-width:0.5201537" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path5924"
+         d="M 177.42435,69.184861 194.71119,96.40239 H 159.76974 Z"
+         style="opacity:1;fill:#45ddfd;fill-opacity:1;stroke-width:0.5201537" />
+      <path
+         style="opacity:1;fill:#4bc8ff;fill-opacity:1;stroke-width:0.5201537"
+         d="m 139.8656,167.31114 18.89274,-68.997484 h 35.95285 z"
+         id="path5928"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path5930"
+         d="M 137.52489,167.09306 119.13468,98.313656 h 37.51603 z"
+         style="opacity:1;fill:#9debff;fill-opacity:1;stroke:none;stroke-width:4.26956606;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+      <path
+         style="opacity:1;fill:#d7f8ff;fill-opacity:1;stroke-width:0.5201537"
+         d="M 135.50922,167.18501 80.706325,98.313656 h 36.504625 z"
+         id="path5932"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Megrim;-inkscape-font-specification:Megrim;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#00ffd2;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="145.46732"
+         y="211.12163"
+         id="text4620"
+         transform="rotate(8.0398623)"><tspan
+           sodipodi:role="line"
+           id="tspan4618"
+           x="145.46732"
+           y="217.60391"
+           style="fill:#00ffd2;fill-opacity:1;stroke-width:0.26458332" /></text>
+    </g>
+  </g>
+</svg>

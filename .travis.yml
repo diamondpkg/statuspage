@@ -1,0 +1,15 @@
+language: node_js
+node_js:
+  - "7"
+cache:
+  directories:
+    - node_modules
+install: npm install
+script:
+  - bash ./deploy/deploy.sh
+env:
+  global:
+    - ENCRYPTION_LABEL: "7876f9b27ffa"
+    - COMMIT_AUTHOR_EMAIL: "admin@hackzzila.com"
+dist: trusty
+sudo: false

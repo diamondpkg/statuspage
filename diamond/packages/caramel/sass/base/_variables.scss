@@ -1,0 +1,40 @@
+// Colours
+$white: #FFF;
+$black: #000;
+$grey: #EEE;
+$disabled: #CCC;
+$default: #3F3F3F;
+$success: #52C652;
+$error: #E93F3C;
+$warn: #F5AD1E;
+$info: #52B7D6;
+$dark: #3F3F3F;
+$light: #FCFCFC;
+$link: #0174DF;
+
+// Fonts
+$font-default: -apple-system, system-ui, BlinkMacSystemFont, // Apple
+               "Segoe UI", "Roboto", Helvetica, Arial, sans-serif, // Windows
+               "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; // Emoji
+$font-code: "SF Mono", "Roboto Mono", monospace;
+$font-color: $default;
+$font-weight: 400;
+$font-size: 14px;
+$line-height: 1.4em;
+
+// Collapse Point
+$breakpoint-width: 800px;
+
+// a e s t h e t i c
+$default-radius: 2px !default;
+
+// Element Padding
+$padding-large: 16px 20px;
+$padding-medium: 12px 18px;
+$padding-table: 10px 16px;
+$padding-nav-item: 13px 18px;
+$padding-tag: 4px 12px;
+$padding-button-large: 9px 20px 8px;
+$padding-button: 6px 16px;
+$padding-button-small: 3px 14px;
+$padding-form: 8px 18px;

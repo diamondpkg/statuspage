@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "caramel": "github:kurisubrooks/caramel#v2"
+  },
+  "name": "diamond-status",
+  "version": "1.0.0",
+  "description": "The status page for diamond",
+  "main": " "
+}

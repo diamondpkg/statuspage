@@ -1,0 +1,88 @@
+.layout
+    display: flex
+
+    @media (max-width: $breakpoint-width)
+        flex-direction: column
+
+    .sidebar
+        flex: 1
+        min-height: 100%
+        min-width: 300px
+        max-width: 300px
+        width: 300px
+        border-right: 1px solid #eee
+        overflow-y: auto
+        padding: 1em 0 2em
+
+        @media (max-width: $breakpoint-width)
+            min-width: 100%
+            max-width: 100%
+            width: 100%
+            border-right: none
+            border-bottom: 1px solid #eee
+
+        ul, ol
+            list-style: none
+            margin: 0
+            padding: 0
+
+            li
+                padding: 12px 2em
+                cursor: pointer
+
+                &.title
+                    padding: 1em 2em
+                    font-weight: bold
+                    text-transform: uppercase
+                    cursor: default
+                    -moz-user-select: none
+                    -webkit-user-select: none
+
+                    &:hover
+                        background: inherit
+
+                &.active, &:hover
+                    background: lighten($grey, 5)
+
+                &.separator
+                    height: 24px
+                    cursor: default
+                    -moz-user-select: none
+                    -webkit-user-select: none
+
+                    &:hover
+                        background: inherit
+
+    .content
+        flex: 2
+        width: 100%
+        height: 100%
+        padding: 2em 3em
+
+        @media (max-width: $breakpoint-width)
+            padding: 2em 2em
+
+footer,
+.footer
+    font-size: 16px
+    margin: 0
+    padding: 3em 6em
+    background: $grey
+    border-top: 2px solid transparentize(darken($grey, 5), 0.8)
+
+    @media (max-width: $breakpoint-width)
+        padding: 3em 1em
+
+    .links
+        a
+            &:not(:last-of-type)
+                margin-right: 2em
+
+                @media (max-width: $breakpoint-width)
+                    margin-right: 1em
+
+            &:hover
+                text-decoration: underline
+    
+    &.centered
+        text-align: center
